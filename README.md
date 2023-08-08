@@ -1,3 +1,3 @@
 # Temp-Data
 - Status: Project finished.
-- Description: Tenperature data for a simple project. Public for use in Colab
+- Description: Temperature & grades data for two, completely independent, projects. Public for use in Colab
